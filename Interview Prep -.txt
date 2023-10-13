@@ -1,0 +1,7 @@
+Interview Prep -
+(12 Oct)Ecommerce Project --> (13-14 Oct)Project that may ask to build upfront(https://www.interviewbit.com/blog/django-projects/) --> (15 Oct)Yash's Mock Interview
+
+13 Oc Schedule :-
+Whishlist Code Review :- Completed
+Make Credentials view :-
+Guest User Code Review :-

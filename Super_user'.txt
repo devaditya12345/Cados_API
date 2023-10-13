@@ -1,0 +1,19 @@
+Username (leave blank to use 'user'): Aditya
+Email address: srivastavaadityakumar@gmail.com
+Password: Srivastava 
+Password (again): Srivastava
+
+Ecommerce App:-
+SUPER USER
+Username (leave blank to use 'user'): Test1
+Email address: test1@gmail.com
+Password: test1 
+Password (again): test1
+
+Django_Accounts:-
+SUPER USER
+Username (leave blank to use 'user'): Aditya
+Email address: srivastavaadityakumar420@gmail.com
+Password: Srivastava@13
+Password (again): Srivastava@13
+Superuser created successfully.
